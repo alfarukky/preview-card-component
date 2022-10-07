@@ -7,6 +7,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -29,6 +30,10 @@ Users should be able to:
 
 ![](./images/screenshot.png)
 ![](./images/screenshot-2.png)
+
+### Links
+
+- Solution URL: [https://bit.ly/3RKU247]
 
 ### Built with
 
